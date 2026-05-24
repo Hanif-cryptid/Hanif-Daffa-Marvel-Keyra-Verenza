@@ -1,6 +1,10 @@
-# Hanif-Daffa-Marvel-Keyra-Verenza
-df['depth_ft'] = df['depth_m']
-print("DataFrame with new 'depth_ft' column:")
-display(df[['depth_m', 'depth_ft']].head())
+# PEMROGRAMAN KOMPUTER KELOMPOK 8
+### Dataset
+Nigerian Oil and Gas
 
-kode tersebut membantu kita buat nyari dataframe dengan column 'depth_ft' yang baru
+### Anggota Kelompok
+Marvelius Emmanuel          (27.25.0.054)
+Verenza Ariskeyla Suardy    (27.25.0.060)
+Keyra Nayranda Ratu. R.     (27.25.0.074)
+Daffa Lukman Nul Hakim      (27.25.0.081)
+Hanif Faturrahman           (27.25.0.083)
